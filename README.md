@@ -7,21 +7,21 @@ This repo serves as my **portfolio**, showcasing my projects, certifications, an
 
 ## 🚀 Projects
 
-### 1. [Corporate Network Lab](./CorporateNetworkLab)
+### 1. [Corporate Network Lab](./PacketTracer-Corporate-Network-Project)
 - VLAN segmentation, OSPF (IPv4/IPv6), NAT (PAT), GRE tunnel, ACLs, QoS  
 - Built with Cisco Packet Tracer, simulating a scalable office + branch topology.  
 
-### 2. [Enhanced Network Lab: DMZ + VPN](./EnhancedNetworkLab)
+### 2. [Enhanced Network Lab: DMZ + VPN](./PacketTracer-VPN-NAT-DMZ-Lab)
 - IPsec-protected GRE tunnel between sites  
 - DMZ with static NAT for public servers  
 - Advanced ACLs & port security on switches  
 
-### 3. [VLAN + DHCP Routing Lab](./VLanDhcpLab)
+### 3. [VLAN + DHCP Routing Lab](./PacketTracer-VLAN-DHCP-Lab)
 - Router-on-a-stick with VLAN10/VLAN20  
 - DHCP for automated IP management  
 - Static routing between branches  
 
-### 4. [Linux Fail2ban Security](./Fail2banProject)
+### 4. [Linux Fail2ban Security](./linux-fail2ban-security)
 - Automated brute-force protection for SSH  
 - Bash script for log parsing & report generation  
 
