@@ -11,17 +11,17 @@ This repo serves as my **portfolio**, showcasing my projects, certifications, an
 - VLAN segmentation, OSPF (IPv4/IPv6), NAT (PAT), GRE tunnel, ACLs, QoS  
 - Built with Cisco Packet Tracer, simulating a scalable office + branch topology.  
 
-### 2. [Enhanced Network Lab: DMZ + VPN](./PacketTracer-VPN-NAT-DMZ-Lab)
+### 2. [Enhanced Network Lab: DMZ + VPN](https://github.com/gorinserhii-spec/PacketTracer-VPN-NAT-DMZ-Lab)
 - IPsec-protected GRE tunnel between sites  
 - DMZ with static NAT for public servers  
 - Advanced ACLs & port security on switches  
 
-### 3. [VLAN + DHCP Routing Lab](./PacketTracer-VLAN-DHCP-Lab)
+### 3. [VLAN + DHCP Routing Lab](https://github.com/gorinserhii-spec/PacketTracer-VLAN-DHCP-Lab)
 - Router-on-a-stick with VLAN10/VLAN20  
 - DHCP for automated IP management  
 - Static routing between branches  
 
-### 4. [Linux Fail2ban Security](./linux-fail2ban-security)
+### 4. [Linux Fail2ban Security](https://github.com/gorinserhii-spec/linux-fail2ban-security)
 - Automated brute-force protection for SSH  
 - Bash script for log parsing & report generation  
 
