@@ -7,7 +7,7 @@ This repo serves as my **portfolio**, showcasing my projects, certifications, an
 
 ## 🚀 Projects
 
-### 1. [Corporate Network Lab](./PacketTracer-Corporate-Network-Project)
+### 1. [Corporate Network Lab](gorinserhii-spec/PacketTracer-Corporate-Network-Project)
 - VLAN segmentation, OSPF (IPv4/IPv6), NAT (PAT), GRE tunnel, ACLs, QoS  
 - Built with Cisco Packet Tracer, simulating a scalable office + branch topology.  
 
