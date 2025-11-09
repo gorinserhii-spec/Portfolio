@@ -4,7 +4,7 @@ Hi! 👋 I'm **Serhii Gorin**, a motivated **Junior IT Specialist** and future *
 
 This repository serves as my **technical portfolio**, showcasing hands-on projects, certifications, and practical experience gained through internships and self-driven learning.
 
-I am currently completing my education as a **Technik Informatyk** at Zespół Szkół Technicznych i Ogólnokształcących in Sandomierz, Poland, and actively seeking **internships or entry-level roles** in IT support, network administration, or system administration — open to relocation within the EU.
+I am currently completing my education as a **Technik Informatyk** at Zespół Szkół Technicznych i Ogólnokształcących in Sandomierz, Poland, and actively seeking **internships or entry-level roles** in IT support, network administration, or system administration - I have full access to the EU labor market.
 
 ---
 
