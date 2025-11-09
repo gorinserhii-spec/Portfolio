@@ -142,5 +142,5 @@ All training completed through official platforms: **NetAcad**, **AWS Skill Buil
 📩 Open to **internships, trainee positions, or junior roles** in **networking, systems, or cybersecurity** — available for **full-time work** and **relocation within the EU**.
 
 🔗 **Contact**:  
-📧 gorinserhii@gmail.com | ☎️ (+48) 793 703 419  
+📧 gorinserhii@gmail.com 
 [LinkedIn](https://linkedin.com/in/gorinserhii) | [GitHub](https://github.com/gorinserhii-spec)
